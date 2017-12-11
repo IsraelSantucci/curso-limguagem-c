@@ -1,1 +1,1 @@
-# curso-limguagem-c
+# curso-linguagem-c
